@@ -1,10 +1,11 @@
 ### Greetings 👋
 
-- 🔭 I’m currently working as a data scientist at a transport consultancy in Cairo
+- 🔭 I’m currently a PhD student at the Institute for Transport Studies in Leeds
 - 🌱 I’m interested in transport modelling and working on projects related to sustainable transport. Specific interests include:
-    -  Bicycle Networks 
+    -  Agent-based simulations of transport networks
     -  Optimization problems for bus networks
-    -  Network science in general
+    -  Bicycle Networks 
+    -  Network science applications to transport resilience
     -  Reproducible research
 - 💬 Ask me about:
     -  R and open source software!
