@@ -2,14 +2,13 @@
 
 - 🔭 I’m currently a PhD student at the Institute for Transport Studies in Leeds
 - 🌱 I’m interested in transport modelling and working on projects related to sustainable transport. Specific interests include:
-    -  Agent-based simulations of transport networks
+    -  Activity and Agent-based models of transport networks
     -  Optimization problems for bus networks
     -  Bicycle Networks 
     -  Network science applications to transport resilience
     -  Reproducible research
 - 💬 Ask me about:
-    -  R and open source software!
-    -  Open source packages and tools for transport analysis
+    -  Open source packages and tools for transportation research
 
 
 <!--
