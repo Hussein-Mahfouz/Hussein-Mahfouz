@@ -1,15 +1,13 @@
 ### Greetings 👋
 
-- 🔭 I’m currently a PhD student at the Institute for Transport Studies in Leeds
-- 🌱 I’m interested in transport modelling and working on projects related to sustainable transport. Specific interests include:
+- I am currently working as a data scientist at Arup's [City Modelling Lab](https://www.arup.com/services/city-modelling-lab/)
+- I’m  finishing a PhD at the Institute for Transport Studies in Leeds
+- I’m interested in transport modelling and working on projects related to sustainable transport. Specific interests include:
     -  Activity and Agent-based models of transport networks
     -  Optimization problems for bus networks
     -  Bicycle Networks 
     -  Network science applications to transport resilience
     -  Reproducible research
-- 💬 Ask me about:
-    -  Open source packages and tools for transportation research
-
 
 <!--
 **Hussein-Mahfouz/Hussein-Mahfouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
